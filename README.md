@@ -1,6 +1,6 @@
 # Roman-Matheus
 
-Soy un Analista de Datos con fuerte vocación por el análisis profundo y la toma de decisiones respaldadas por información confiable. Mi objetivo es acompañar a empresas y equipos a descubrir el valor oculto en sus datos, transformándolos en herramientas estratégicas mediante tecnologías como Power BI, SQL, Python y Excel.
+Analista de Datos con fuerte vocación por el análisis profundo y la toma de decisiones respaldadas por información confiable. Mi objetivo es acompañar a empresas y equipos a descubrir el valor oculto en sus datos, transformándolos en herramientas estratégicas mediante tecnologías como Power BI, SQL, Python y Excel.
 
 Me destaco por integrar habilidades técnicas con pensamiento crítico, visión de negocio y una comunicación clara. Creo firmemente que los datos, bien tratados, pueden simplificar lo complejo y generar cambios significativos.
 
